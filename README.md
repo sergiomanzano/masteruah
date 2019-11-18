@@ -19,7 +19,12 @@ Texto en *cursiva*
 Texto ~~sddddd~~
 
 |header|ey|oj|
-|1|2|3|
+|1|2|3
+
+
+| Header | Header | Right |
+| ------ | ------ | -----:|
+|Cell    |  Cell  |10     |
 
 [texto del enlace](www.google.es)
 
