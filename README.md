@@ -26,6 +26,6 @@ Texto ~~sddddd~~
 | ------ | ------ | -----:|
 |Cell    |  Cell  |10     |
 
-[texto del enlace](www.google.es)
+[texto del enlace](http://google.es)
 
 
