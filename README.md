@@ -16,15 +16,15 @@ Texto en **negrita**
 
 Texto en *cursiva*
 
-Texto ~~sddddd~~
+Texto ~~tachad~~
 
-|header|ey|oj|
-|1|2|3
-
-
-| Header | Header | Right |
+COMPAÑEROS DE CLASE:
+| NOMBRE | GITHUB | COLUMNA EXTRA |
 | ------ | ------ | -----:|
+|SERGIO  |  TEST1 |10     |
 |Cell    |  Cell  |10     |
+
+
 
 [texto del enlace](http://google.es)
 
