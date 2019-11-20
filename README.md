@@ -19,6 +19,8 @@ Texto en *cursiva*
 Texto ~~tachad~~
 
 COMPAÑEROS DE CLASE:
+
+
 | NOMBRE | GITHUB | COLUMNA EXTRA |
 | ------ | ------ | -----:|
 |SERGIO  |  TEST1 |10     |
